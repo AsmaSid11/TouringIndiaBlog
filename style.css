@@ -14,7 +14,7 @@ body {
 header {
   background-color: rgb(240, 238, 210);
   height: 100vh;
-  background-image: url(wp2.jpg);
+  background-image: url(images/wp2.jpg);
   background-size: cover;
   opacity: 0.9;
 }
